@@ -1,0 +1,5 @@
+C:\Users\001\Source\Repos\WPF\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\001\Source\Repos\WPF\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\001\Source\Repos\WPF\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\001\Source\Repos\WPF\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\001\Source\Repos\WPF\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

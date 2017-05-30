@@ -1,0 +1,6 @@
+C:\Users\001\Source\Repos\WPF\Number\Number\bin\Debug\Number.exe.config
+C:\Users\001\Source\Repos\WPF\Number\Number\bin\Debug\Number.exe
+C:\Users\001\Source\Repos\WPF\Number\Number\bin\Debug\Number.pdb
+C:\Users\001\Source\Repos\WPF\Number\Number\obj\Debug\Number.csprojResolveAssemblyReference.cache
+C:\Users\001\Source\Repos\WPF\Number\Number\obj\Debug\Number.exe
+C:\Users\001\Source\Repos\WPF\Number\Number\obj\Debug\Number.pdb

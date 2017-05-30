@@ -1,0 +1,6 @@
+C:\Users\001\Source\Repos\WPF\BinarySurch\BinarySurch\bin\Debug\BinarySurch.exe.config
+C:\Users\001\Source\Repos\WPF\BinarySurch\BinarySurch\bin\Debug\BinarySurch.exe
+C:\Users\001\Source\Repos\WPF\BinarySurch\BinarySurch\bin\Debug\BinarySurch.pdb
+C:\Users\001\Source\Repos\WPF\BinarySurch\BinarySurch\obj\Debug\BinarySurch.csprojResolveAssemblyReference.cache
+C:\Users\001\Source\Repos\WPF\BinarySurch\BinarySurch\obj\Debug\BinarySurch.exe
+C:\Users\001\Source\Repos\WPF\BinarySurch\BinarySurch\obj\Debug\BinarySurch.pdb

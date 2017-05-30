@@ -1,0 +1,6 @@
+C:\Users\001\Source\Repos\WPF\Rabbit\Rabbit\bin\Debug\Rabbit.exe.config
+C:\Users\001\Source\Repos\WPF\Rabbit\Rabbit\bin\Debug\Rabbit.exe
+C:\Users\001\Source\Repos\WPF\Rabbit\Rabbit\bin\Debug\Rabbit.pdb
+C:\Users\001\Source\Repos\WPF\Rabbit\Rabbit\obj\Debug\Rabbit.csprojResolveAssemblyReference.cache
+C:\Users\001\Source\Repos\WPF\Rabbit\Rabbit\obj\Debug\Rabbit.exe
+C:\Users\001\Source\Repos\WPF\Rabbit\Rabbit\obj\Debug\Rabbit.pdb
