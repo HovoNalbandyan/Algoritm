@@ -16,16 +16,29 @@ namespace Devide
             int m = int.Parse(Console.ReadLine());
             Devides(n, m); 
         }
-        public static void Devides(int n,int m)
+        public static int Devides(int n,int m)
         {
-            for (int i = 2; i < (n + m) / 2; i++)
+            if (n>m)
             {
-                if ((n % i == 0) && (m % i == 0))
+                if (n%m==0)&&
                 {
-                    Console.WriteLine(i);
-                }                  
-                              
+
+                }
             }
+
+
+
+
+
+            int i = 2;
+            if ((n % i == 0) && (m % i == 0))
+            {
+                return Devides(n, m);  
+                i++;
+            }
+            else { return 0; i++; Devides(n, m); }
+           
+            
         }
     }
 }
