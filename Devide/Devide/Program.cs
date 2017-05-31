@@ -14,7 +14,7 @@ namespace Devide
             int n = int.Parse(Console.ReadLine());
             Console.Write("M=");
             int m = int.Parse(Console.ReadLine());
-            Devides(n, m);
+            Devides(n, m); 
         }
         public static void Devides(int n,int m,int i=2)
         {
